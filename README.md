@@ -6,7 +6,7 @@ Font Deck is a macOS desktop utility for inspecting and previewing locally avail
 - We urge the avoidance of using this app. We are not responsible for any result. We do not promise anything.
 
 ## Requirements
-- macOS
+- macOS on Apple silicon Mac
 - Traditional Chinese literacy
 
 ## Stack
