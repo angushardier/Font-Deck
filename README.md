@@ -10,11 +10,9 @@ Font Deck is a macOS desktop utility for inspecting and previewing locally avail
 - Traditional Chinese literacy
 
 ## Stack
-- Electron, React, Vite, TypeScript, fontkit
+- SwiftUI
+- AppKit
 
 ## Contributions
 
-This repository is for distribution only and does not accept contributions. Source code is not published.
-
-## Acknowledgment
-Font Deck is a refactored utility inspired by [Moonvy's FontPreview web tool](https://moonvy.com/apps/font-preview). Font Deck is not affiliated with Moonvy. 
+This repository does not accept contributions. 
